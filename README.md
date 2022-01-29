@@ -1,5 +1,5 @@
 # Turtle-Crossing-Capstone-Game
-I've made a 'Turtle Crossing Capstone  Game' and ı like it :)
+I've made a 'Turtle Crossing Capstone  Game'
 
 
 # GAME PLAY
